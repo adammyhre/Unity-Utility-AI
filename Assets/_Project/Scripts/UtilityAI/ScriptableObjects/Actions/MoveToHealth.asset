@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341025acd0384ee4abf8cf6a423abbe5, type: 3}
+  m_Name: MoveToHealth
+  m_EditorClassIdentifier: 
+  targetTag: Health
+  consideration: {fileID: 11400000, guid: 0b94afbce0679ad41ae83e5b1ec8e2e7, type: 2}
