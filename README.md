@@ -1,4 +1,7 @@
 # Unity Utility AI
+![UtilityAI](https://github.com/user-attachments/assets/3272ecd2-1df4-4d2a-bbfb-44c9a64fa349)
+
+
 
 Unity Utility AI is your key to creating intelligent agents with dynamic decision-making! 
 In this episode, we dive deep into the inner workings of the AI Brain, exploring how Actions 
