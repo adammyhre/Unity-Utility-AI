@@ -17,7 +17,7 @@ The package makes use of the following dependencies:
 
 ## YouTube
 
-[**Utility AI Video**](#)
+[**Utility AI Video**]https://youtu.be/S4oyqrsU2WU)
 
 You can also check out my [YouTube channel](https://www.youtube.com/@git-amend?sub_confirmation=1) for more Unity content.
 
