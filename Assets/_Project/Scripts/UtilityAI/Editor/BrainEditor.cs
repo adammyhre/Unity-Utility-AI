@@ -4,6 +4,10 @@ using UnityEditor;
 namespace UtilityAI {
     [CustomEditor(typeof(Brain))]
     public class BrainEditor : Editor {
+        void OnEnable() {
+            this.RequiresConstantRepaint();
+        }
+            
         public override void OnInspectorGUI() {
             base.OnInspectorGUI(); // Draw the default inspector
 
