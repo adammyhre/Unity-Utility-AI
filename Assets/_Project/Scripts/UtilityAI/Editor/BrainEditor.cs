@@ -31,6 +31,8 @@ namespace UtilityAI {
                     // Draw the single consideration for the action
                     DrawConsideration(action.consideration, brain.context, 1);
                 }
+
+                Repaint();
             } else {
                 EditorGUILayout.HelpBox("Enter Play mode to view utility values.", MessageType.Info);
             }
